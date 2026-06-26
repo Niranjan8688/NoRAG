@@ -1,0 +1,16 @@
+Question,Source Docs,Answerable,Expected Keywords,Answer
+"What is the Defence Procurement Manual (DPM) 2025?",*DPM*,Yes,DPM|Defence Procurement Manual|Ministry of Defence,
+"When is Integrity Pact required in procurement?",*DPM*,Yes,Integrity Pact|5 crore|₹,
+"What are INCOTERMS 2020 used for in DPM?",*DPM-2025-VOLUME-II*,Yes,INCOTERMS|2020|delivery,
+"What is the procedure for registration of suppliers under DPM?",*DPM*,Yes,registration|suppliers|procedure,
+"What is the threshold for two-stage bidding?",*DPM*,Yes,two stage|bidding,
+"What does RegsNavy cover regarding courts martial?",*RegsNavy*,Yes,court martial|courts martial,
+"What is the role of the Judge Advocate General in Navy regulations?",*RegsNavy*,Yes,Judge Advocate|JAG,
+"What are the Delegation of Financial Powers Rules 2024 about?",*Delegation*,Yes,financial powers|delegation,
+"Which Navy regulation volume covers discipline and conduct?",*RegsNavy*,Yes,discipline|conduct,
+"What is the competent authority for registration of sensitive technologies?",*DPM-2025-VOLUME-II*,Yes,competent authority|registration|sensitive,
+"What is Apple's iPhone revenue in Q3 2023?",,No,,Question outside corpus
+"What is the capital of France?",,No,,General knowledge not in docs
+"What was NVIDIA stock price on January 1 2020?",,No,,Financial data not in corpus
+"Who won the FIFA World Cup in 2022?",,No,,Outside corpus
+"What is the procedure for lunar base procurement in DPM?",*DPM*,No,,Fabricated topic not in docs

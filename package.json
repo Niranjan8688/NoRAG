@@ -1,0 +1,22 @@
+{
+  "name": "doc-qa-beyond-rag",
+  "version": "1.0.0",
+  "description": "Document Q&A using lexical BM25 retrieval (no vector embeddings)",
+  "type": "module",
+  "scripts": {
+    "corpus:prepare": "node src/cli.js prepare",
+    "query": "node src/cli.js query",
+    "eval": "node src/cli.js eval",
+    "ingest": "node src/cli.js prepare",
+    "ask": "node src/cli.js query"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.0",
+    "dotenv": "^16.4.7",
+    "openai": "^4.77.0",
+    "pdf-parse": "^1.1.1"
+  }
+}
